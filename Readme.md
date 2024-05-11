@@ -73,7 +73,7 @@ A static webpage offers a streamlined browsing experience by delivering pre-buil
 Access your static webpage using the provided CloudFront distribution URL or custom domain (if configured) to ensure successful hosting and content delivery.
 
    ![Access cloudfront domain name](./images/domain-name.png)
-   ![my webpage](./images/Hosted-site.png)
+   ![my webpage](./images/hosted-site.png)
 
 
 By following these steps, you can seamlessly host your static webpage using Amazon S3 Bucket and CloudFront services, providing users with a fast, reliable, and scalable browsing experience.
