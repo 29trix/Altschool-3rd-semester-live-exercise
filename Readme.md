@@ -1,5 +1,7 @@
 # Hosting a Static Webpage Using Amazon S3 Bucket and CloudFront
 
+![image](./images/s3.png)
+
 A static webpage offers a streamlined browsing experience by delivering pre-built content to users, making it an ideal choice for websites with unchanging information. By leveraging Amazon S3 Bucket and CloudFront services provided by AWS, you can efficiently host your static webpage with scalability, security, and performance in mind.
 
 ## Step-by-Step Guide:
